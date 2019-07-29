@@ -15,7 +15,6 @@
 * [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://ieeexplore.ieee.org/document/8114708) (2017 MIT)
 * [A Survey of FPGA-Based Neural Network Inference Accelerator](https://arxiv.org/abs/1712.08934) (2018 Tsinghua University)
 
-## papers
 ### Efficient neural network design
 - [MobileNet](https://arxiv.org/pdf/1704.04861.pdf) (2017)
 - [MobileNet v2](https://arxiv.org/abs/1801.04381) (2018)
@@ -35,5 +34,6 @@
 ### Neural network on hardware
 * [Neural Network on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 * [Synetgy: Algorithm-hardware Co-design for ConvNet Accelerators on Embedded FPGAs](https://arxiv.org/abs/1811.08634) (2018)
+* [The Energy-Efficient Multimedia Systems Group - MIT](http://www.rle.mit.edu/eems/research/)
 
 *******************************
