@@ -1,7 +1,12 @@
 # Literature survey
 # stereo vision
 ## deep learning based approaches
-* 
+* [StereoNet: Guided Hierarchical Refinement for Real-Time Edge-Aware Depth Prediction](https://arxiv.org/abs/1807.08865) (ECCV2018)
+    - first end-to-end neural-network-based stereo model for real-time application
+* [Real-time self-adaptive deep stereo](https://arxiv.org/abs/1810.05424)(CVPR2019)
+    - Train with synthetic dataset and fine-tune on unsupervised loss.
+    - It claims that this model is faster and more accurate than StereoNet
+
 ## traditional computer vision algorithm
 * 
 *******************************
