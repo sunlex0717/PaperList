@@ -33,5 +33,7 @@
 * [ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptation](https://arxiv.org/abs/1812.08934) (CVPR2019)
 * [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443) (CVPR2019)
 ### Neural network on hardware
+* [Neural Network on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 * [Synetgy: Algorithm-hardware Co-design for ConvNet Accelerators on Embedded FPGAs](https://arxiv.org/abs/1811.08634) (2018)
+
 *******************************
