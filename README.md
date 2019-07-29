@@ -1,16 +1,16 @@
 # Literature survey
-# stereto vision
+# stereo vision
 ## deep learning based approaches
 * 
-## tranditional computer vision algorithm
+## traditional computer vision algorithm
 * 
 *******************************
 # Efficient CNN on embedded platform
 ## workshops
-* [Efficient Deep Learning for Computer Vision(CVPR workshop)](https://sites.google.com/view/ecv2018/)
-* [Computer Vision for UAVs - CVPR workshop](https://sites.google.com/site/uavision2019/program)
-* [Embedded Vision Workshop - CVPR workshop](https://embeddedvisionworkshop.wordpress.com/)
-* 
+* [Efficient Deep Learning for Computer Vision](https://sites.google.com/view/ecv2018/)
+* [Computer Vision for UAVs](https://sites.google.com/site/uavision2019/program)
+* [Embedded Vision Workshop](https://embeddedvisionworkshop.wordpress.com/)
+* [Energy Efficient Machine Learning and Cognitive Computing](https://www.emc2-workshop.com/)
 ## tutorials/survey
 * [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://ieeexplore.ieee.org/document/8114708) (2017 MIT)
 * [A Survey of FPGA-Based Neural Network Inference Accelerator](https://arxiv.org/abs/1712.08934) (2018 Tsinghua University)
